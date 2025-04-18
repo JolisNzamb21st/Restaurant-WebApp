@@ -2,8 +2,8 @@
 # 🍽️ Restaurant Project
 
 This is an ongoing web development project for a restaurant WebAp, designed to provide a professional, modern, and interactive user experience.  
----
 
+---
 ## 🚀 Project Overview
 
 The purpose of this project is to create a fully functional restaurant WebApp that covers both frontend and backend functionalities, including:
