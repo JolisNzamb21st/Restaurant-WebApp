@@ -17,6 +17,7 @@ The purpose of this project is to create a fully functional restaurant WebApp th
 
 ## 🧠 Development Approach
 The project will be built in two main phases:
+
 **Phase 1 — Frontend Development**  
 Currently, the project is focused on building a clean, responsive, and user-friendly frontend. The goal is to create an intuitive interface that will later be connected to the Django backend.
 
